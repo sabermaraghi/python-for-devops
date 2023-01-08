@@ -8,3 +8,4 @@
 3. populate Makefile
 
 
+[![Python application test with Github Actions](https://github.com/sabermaraghi/python-for-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/sabermaraghi/python-for-devops/actions/workflows/devops.yml)
