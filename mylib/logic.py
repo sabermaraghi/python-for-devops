@@ -1,6 +1,7 @@
 import wikipedia
 from textblob import TextBlob
 
+
 def wiki(name="War Goddes", length=1):
     """This is a wikipedia fetcher."""
 
